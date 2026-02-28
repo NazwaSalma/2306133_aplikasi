@@ -1,10 +1,10 @@
 Aplikasi Pertamaku adalah project Flutter sederhana yang menampilkan halaman utama dengan AppBar dan teks sambutan di tengah layar.
 
 Identitas
-Nama: Nazwa Mutia Salma
-NIM: 2306133
-Mata Kuliah: Pemrograman Mobile
-Repository: 2306133_aplikasi
+1. Nama: Nazwa Mutia Salma
+2. NIM: 2306133
+3. Mata Kuliah: Praktikum Pemrograman Mobile
+4. Repository: 2306133_aplikasi
 
 Tujuan project ini dibuat untuk memahami dasar pengembangan aplikasi menggunakan Flutter, termasuk:
 1. Struktur dasar project Flutter
