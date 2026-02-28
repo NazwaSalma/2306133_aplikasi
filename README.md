@@ -1,4 +1,3 @@
-##Aplikasi Pertamaku
 Aplikasi Pertamaku adalah project Flutter sederhana yang menampilkan halaman utama dengan AppBar dan teks sambutan di tengah layar.
 
 Identitas
@@ -7,8 +6,7 @@ NIM: 2306133
 Mata Kuliah: Pemrograman Mobile
 Repository: 2306133_aplikasi
 
-Tujuan Project
-Project ini dibuat untuk memahami dasar pengembangan aplikasi menggunakan Flutter, termasuk:
+Tujuan project ini dibuat untuk memahami dasar pengembangan aplikasi menggunakan Flutter, termasuk:
 1. Struktur dasar project Flutter
 2. Penggunaan MaterialApp dan Scaffold
 3. Menampilkan teks menggunakan widget Text
