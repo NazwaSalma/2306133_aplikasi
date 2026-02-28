@@ -25,13 +25,13 @@ lib/
 File utama aplikasi berada di lib/main.dart.
 
 Penjelasan Singkat Kode
---> main() → Titik awal program
---> runApp() → Menjalankan widget utama
---> StatelessWidget → Widget tanpa state (tidak berubah)
---> MaterialApp → Root aplikasi berbasis Material Design
---> Scaffold → Struktur dasar halaman
---> AppBar → Menampilkan judul aplikasi
---> Text → Menampilkan pesan sambutan
+1. main() → Titik awal program
+2. runApp() → Menjalankan widget utama
+3. StatelessWidget → Widget tanpa state (tidak berubah)
+4. MaterialApp → Root aplikasi berbasis Material Design
+5. Scaffold → Struktur dasar halaman
+6. AppBar → Menampilkan judul aplikasi
+7. Text → Menampilkan pesan sambutan
 
 ▶️ Cara Menjalankan
 Untuk Web:
