@@ -37,6 +37,17 @@ File utama aplikasi berada di lib/main.dart.
 Penjelasan Singkat Kode
 1. Import Library : import 'package:flutter/material.dart';
    (Digunakan untuk mengakses widget Material Design seperti AppBar, Card, Text, dan lainnya)
+2. Fungsi Main : void main() {
+   runApp(HomePage());
+} (Fungsi main() adalah titik awal program Flutter yang menjalankan widget utama yaitu HomePage)
+3. Widget Utama : class HomePage extends StatelessWidget {
+   (HomePage adalah widget utama aplikasi yang menggunakan StatelessWidget karena tampilan tidak berubah secara dinamis)
+4. Struktur Aplikasi :
+   MaterialApp → kerangka dasar aplikasi Flutter, Scaffold → struktur halaman seperti AppBar dan Body
+5. AppBar : Digunakan untuk menampilkan judul aplikasi di bagian atas
+6. Scroll Halaman : body: SingleChildScrollView(
+   (Digunakan agar halaman dapat di-scroll jika kontennya panjang)
+7. Layout Konten : Column digunakan untuk menyusun widget secara vertikal, Text untuk menampilkan judul dan deskripsi     Image.network untuk menampilkan gambar dari internet
 
 ▶️ Cara Menjalankan
 Untuk Web:
