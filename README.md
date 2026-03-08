@@ -15,15 +15,14 @@ Aplikasi ini menampilkan halaman artikel yang berisi:
 2. Gambar destinasi wisata
 3. Deskripsi singkat tentang tempat wisata
 4. Daftar komentar dari pengguna
-Aplikasi dibuat menggunakan Flutter dengan tampilan sederhana menggunakan beberapa widget dasar.
-
-Tampilan Aplikasi
+   
+📌Tampilan Aplikasi
 Halaman utama menampilkan:
-a. AppBar dengan judul Artikel Berita Terkini
-b. Artikel wisata Gunung Bromo
-c. Gambar wisata
-d. Deskripsi artikel
-e. Bagian Komentar pengguna
+1. AppBar dengan judul Artikel Berita Terkini
+2. Artikel wisata Gunung Bromo
+3. Gambar wisata
+4. Deskripsi artikel
+5. Bagian Komentar pengguna
 
 Teknologi
 1. Flutter
@@ -36,13 +35,8 @@ lib/
 File utama aplikasi berada di lib/main.dart.
 
 Penjelasan Singkat Kode
-1. main() → Titik awal program
-2. runApp() → Menjalankan widget utama
-3. StatelessWidget → Widget tanpa state (tidak berubah)
-4. MaterialApp → Root aplikasi berbasis Material Design
-5. Scaffold → Struktur dasar halaman
-6. AppBar → Menampilkan judul aplikasi
-7. Text → Menampilkan pesan sambutan
+1. Import Library : import 'package:flutter/material.dart';
+   (Digunakan untuk mengakses widget Material Design seperti AppBar, Card, Text, dan lainnya)
 
 ▶️ Cara Menjalankan
 Untuk Web:
