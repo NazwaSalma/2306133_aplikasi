@@ -1,6 +1,7 @@
 <img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/22c0a807-acfb-4d73-82f9-7fbe99b5d515" />
 
-Aplikasi Pertamaku adalah project Flutter sederhana yang menampilkan halaman utama dengan AppBar dan teks sambutan di tengah layar.
+Aplikasi ini merupakan aplikasi sederhana berbasis Flutter yang menampilkan artikel berita wisata tentang Gunung Bromo serta menyediakan bagian komentar dari pengguna.
+Aplikasi ini dibuat untuk latihan penggunaan widget dasar Flutter seperti MaterialApp, Scaffold, AppBar, Column, Row, dan Card.
 
 Identitas
 1. Nama: Nazwa Mutia Salma
@@ -8,11 +9,21 @@ Identitas
 3. Mata Kuliah: Praktikum Pemrograman Mobile
 4. Repository: 2306133_aplikasi
 
-Tujuan project ini dibuat untuk memahami dasar pengembangan aplikasi menggunakan Flutter, termasuk:
-1. Struktur dasar project Flutter
-2. Penggunaan MaterialApp dan Scaffold
-3. Menampilkan teks menggunakan widget Text
-4. Version control menggunakan Git dan GitHub
+Deskripsi Aplikasi
+Aplikasi ini menampilkan halaman artikel yang berisi:
+1. Judul artikel wisata
+2. Gambar destinasi wisata
+3. Deskripsi singkat tentang tempat wisata
+4. Daftar komentar dari pengguna
+Aplikasi dibuat menggunakan Flutter dengan tampilan sederhana menggunakan beberapa widget dasar.
+
+Tampilan Aplikasi
+Halaman utama menampilkan:
+a. AppBar dengan judul Artikel Berita Terkini
+b. Artikel wisata Gunung Bromo
+c. Gambar wisata
+d. Deskripsi artikel
+e. Bagian Komentar pengguna
 
 Teknologi
 1. Flutter
