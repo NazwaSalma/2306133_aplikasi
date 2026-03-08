@@ -1,17 +1,42 @@
-# aplikasi_2306133
+![Halaman Utama Aplikasi Pertamaku](https://github.com/user-attachments/assets/86a08f1b-5310-4cf2-bce2-602d4a159585)
 
-A new Flutter project.
+Aplikasi Pertamaku adalah project Flutter sederhana yang menampilkan halaman utama dengan AppBar dan teks sambutan di tengah layar.
 
-## Getting Started
+Identitas
+1. Nama: Nazwa Mutia Salma
+2. NIM: 2306133
+3. Mata Kuliah: Praktikum Pemrograman Mobile
+4. Repository: 2306133_aplikasi
 
-This project is a starting point for a Flutter application.
+Tujuan project ini dibuat untuk memahami dasar pengembangan aplikasi menggunakan Flutter, termasuk:
+1. Struktur dasar project Flutter
+2. Penggunaan MaterialApp dan Scaffold
+3. Menampilkan teks menggunakan widget Text
+4. Version control menggunakan Git dan GitHub
 
-A few resources to get you started if this is your first Flutter project:
+Teknologi
+1. Flutter
+2. Dart
+3. Git & GitHub
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+📂 Struktur Utama
+lib/
+ └── main.dart
+File utama aplikasi berada di lib/main.dart.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Penjelasan Singkat Kode
+1. main() → Titik awal program
+2. runApp() → Menjalankan widget utama
+3. StatelessWidget → Widget tanpa state (tidak berubah)
+4. MaterialApp → Root aplikasi berbasis Material Design
+5. Scaffold → Struktur dasar halaman
+6. AppBar → Menampilkan judul aplikasi
+7. Text → Menampilkan pesan sambutan
+
+▶️ Cara Menjalankan
+Untuk Web:
+flutter run 
+dan ketikan 2 untuk menggunakan chrome
+
+📌 Kesimpulan
+Aplikasi ini merupakan implementasi dasar Flutter yang menampilkan teks dinamis menggunakan variabel dan layout sederhana. Project ini menjadi fondasi untuk pengembangan aplikasi yang lebih kompleks.
