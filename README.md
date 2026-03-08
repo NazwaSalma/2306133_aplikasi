@@ -1,4 +1,4 @@
-![Halaman Utama Aplikasi Pertamaku](https://github.com/user-attachments/assets/86a08f1b-5310-4cf2-bce2-602d4a159585)
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/22c0a807-acfb-4d73-82f9-7fbe99b5d515" />
 
 Aplikasi Pertamaku adalah project Flutter sederhana yang menampilkan halaman utama dengan AppBar dan teks sambutan di tengah layar.
 
